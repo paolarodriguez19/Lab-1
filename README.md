@@ -1,5 +1,5 @@
 # Lab-1
-Class: Programming Fundamentals (COMP112) - Laboratory #1 - 
+Class: Programming Fundamentals (COMP112) - Laboratory #1 - Sum of Two Numbers + Circle Area + Average + Kilogram to Pounds + Multiplication Calculator in Java
 
 package Lab1;
 
